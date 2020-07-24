@@ -1,4 +1,4 @@
-#Car Registration System application  using React, Redux, Javascript ,css , html #
+#Car Registration System application #
 
 *  Technology: Java, rest, XMLPullparser, HSQL 
 * Version:1:0
